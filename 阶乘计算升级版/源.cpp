@@ -14,7 +14,7 @@ void Print_Factorial(const int N)
 {
 	if (N >= 0)
 	{
-		
+	
 	}
 	else
 		printf("Invalid input");
