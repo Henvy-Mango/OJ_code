@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-14 求整数段和", "7-1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-15 计算圆周率", "7-15 计算圆周率\7-15 计算圆周率.vcxproj", "{5283EA4E-4087-49F6-9346-916DAC0A1C6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-16 求符合给定条件的整数集", "7-16 求符合给定条件的整数集\7-16 求符合给定条件的整数集.vcxproj", "{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{5283EA4E-4087-49F6-9346-916DAC0A1C6E}.Release|x64.Build.0 = Release|x64
 		{5283EA4E-4087-49F6-9346-916DAC0A1C6E}.Release|x86.ActiveCfg = Release|Win32
 		{5283EA4E-4087-49F6-9346-916DAC0A1C6E}.Release|x86.Build.0 = Release|Win32
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Debug|x64.ActiveCfg = Debug|x64
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Debug|x64.Build.0 = Debug|x64
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Debug|x86.Build.0 = Debug|Win32
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Release|x64.ActiveCfg = Release|x64
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Release|x64.Build.0 = Release|x64
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Release|x86.ActiveCfg = Release|Win32
+		{CDC9FC57-3BF0-4E9D-93D0-C94A92C08BE1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
