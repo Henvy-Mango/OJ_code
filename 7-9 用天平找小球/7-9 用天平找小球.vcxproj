@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{A4E07178-9782-4DDB-8739-BB9958A77C9F}</ProjectGuid>
+    <ProjectGuid>{0D50E999-EDCE-4379-8EA8-303EC6563458}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My73逆序的三位数</RootNamespace>
+    <RootNamespace>My79用天平找小球</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
