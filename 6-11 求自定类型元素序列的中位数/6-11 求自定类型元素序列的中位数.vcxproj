@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{5CD6C894-FB73-4E06-882B-2D10F6B976EB}</ProjectGuid>
+    <ProjectGuid>{80D30C39-67AE-4A9B-A680-218F7A1E96AA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>6-2 多项式求值</RootNamespace>
+    <RootNamespace>My611求自定类型元素序列的中位数</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
-    <ProjectName>6-2 多项式求值</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

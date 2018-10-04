@@ -22,8 +22,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{7A808D7D-8260-480F-A71E-AB050443D497}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>然后是几点</RootNamespace>
+    <RootNamespace>7-2 然后是几点</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>7-2 然后是几点</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

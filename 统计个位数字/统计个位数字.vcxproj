@@ -22,8 +22,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{68B3E9A3-289C-4047-A93B-19D0E9E41CA4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>统计个位数字</RootNamespace>
+    <RootNamespace>6-9 统计个位数字</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>6-9 统计个位数字</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -22,8 +22,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{4AEB3883-D203-4681-91ED-7FB8B1BA3CE9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>阶乘计算升级版</RootNamespace>
+    <RootNamespace>6-10 阶乘计算升级版</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>6-10 阶乘计算升级版</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
