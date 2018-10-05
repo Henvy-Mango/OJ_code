@@ -39,7 +39,7 @@ ElementType Median(ElementType A[], int N)
 {
 	int i, j, Increment;
 	ElementType Tmp;
-	//Ï£¶ûÅÅÐò
+55221122	//Ï£¶ûÅÅÐò
 	for (Increment = N / 2; Increment > 0; Increment /= 2) {
 		for (i = Increment; i < N; i++) {
 			Tmp = A[i];
