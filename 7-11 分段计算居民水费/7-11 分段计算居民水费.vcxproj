@@ -23,7 +23,7 @@
     <ProjectGuid>{C21D0417-641F-444A-8741-84D75AB57CA1}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My711分段计算居民水费</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
